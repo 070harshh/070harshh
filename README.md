@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...AI
 - 🌱 I’m currently learning ...python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...hks292004@gmil.com
 
 <!---
 070harshh/070harshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
